@@ -1,0 +1,11 @@
+.cardcomment {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+@media(max-width: 360px)
+{
+   .cardcomment {
+        width: 265px
+   }
+}
